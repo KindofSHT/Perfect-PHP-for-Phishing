@@ -1,7 +1,7 @@
 # Perfect-PHP-for-Phishing
 PHP Form Handler: Securely Capture, Email, and Redirect
 This PHP code snippet serves as a secure way to handle form submissions, store login details, and send an email notification. Here’s a breakdown of its functionality:
-
+---------------------------------
 **DISCLAIMER**
 
 Usage Responsibility:
