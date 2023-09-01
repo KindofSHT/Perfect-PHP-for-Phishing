@@ -14,8 +14,8 @@ By using this code, you agree that you will not hold the author liable for any m
 Please exercise caution and discretion when implementing code from this repository in any application. Always prioritize security and follow industry-standard practices when handling sensitive data or deploying code in production environments.
 
 Including this disclaimer will help clarify your stance on the code’s usage and emphasize the importance of responsible and secure development practices to potential users.
-•	Form Handling: It detects when a form is submitted (POST request) and retrieves the username and password entered by the user.
-•	File Storage: The code creates a text file, “login_details.txt,” to securely store the login details in the format:
+•Form Handling: It detects when a form is submitted (POST request) and retrieves the username and password entered by the user.
+•File Storage: The code creates a text file, “login_details.txt,” to securely store the login details in the format:
 Username: [username]
 Password: [password]
 ```
