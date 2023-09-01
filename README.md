@@ -15,9 +15,10 @@ Please exercise caution and discretion when implementing code from this reposito
 Including this disclaimer will help clarify your stance on the code’s usage and emphasize the importance of responsible and secure development practices to potential users.
  •	Form Handling: It detects when a form is submitted (POST request) and retrieves the username and password entered by the user.
 	•	File Storage: The code creates a text file, “login_details.txt,” to securely store the login details in the format:
-
+``php
 Username: [username]
 Password: [password]
+```
 
 
 	•	Email Notification: It sends an email notification to a specified address with the login details attached as a file. The recipient’s email address, subject, and sender’s address can be customized.
