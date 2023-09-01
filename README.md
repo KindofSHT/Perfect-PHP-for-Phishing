@@ -2,6 +2,17 @@
 PHP Form Handler: Securely Capture, Email, and Redirect
 This PHP code snippet serves as a secure way to handle form submissions, store login details, and send an email notification. Here’s a breakdown of its functionality:
 
+Disclaimer
+
+Usage Responsibility:
+
+This code snippet is provided for educational and illustrative purposes. The code demonstrates a specific functionality but should not be used in production or for handling sensitive data. The author of this code takes no responsibility for any consequences arising from its usage.
+
+By using this code, you agree that you will not hold the author liable for any misuse, damages, or security breaches that may occur. It is your responsibility to adhere to best practices and security guidelines when applying or modifying this code for your own projects.
+
+Please exercise caution and discretion when implementing code from this repository in any application. Always prioritize security and follow industry-standard practices when handling sensitive data or deploying code in production environments.
+
+Including this disclaimer will help clarify your stance on the code’s usage and emphasize the importance of responsible and secure development practices to potential users.
 	•	Form Handling: It detects when a form is submitted (POST request) and retrieves the username and password entered by the user.
 	•	File Storage: The code creates a text file, “login_details.txt,” to securely store the login details in the format:
 
